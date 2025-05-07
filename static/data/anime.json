@@ -1,0 +1,1539 @@
+{
+    "anime": [
+        {
+            "id": 1,
+            "title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+            "original_title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+            "description": "Ce qui attend Alina dans son tout nouvel emploi id\u00e9al de r\u00e9ceptionniste de la guilde, c'est une journ\u00e9e remplie d'heures suppl\u00e9mentaires qui est loin d'\u00eatre id\u00e9ale. Tout cela \u00e0 cause de son incapacit\u00e9 \u00e0 conqu\u00e9rir le moindre donjon ! Avec son permis d'aventuri\u00e8re de premi\u00e8re classe et un marteau de guerre en argent \u00e0 la main, Alina entreprend alors de vaincre le boss elle-m\u00eame. Mais il faut que cela reste secret ! En effet, les r\u00e9ceptionnistes ne sont pas autoris\u00e9s \u00e0 travailler \u00e0 c\u00f4t\u00e9...",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time.jpg",
+            "genres": [
+                "Action",
+                "Com\u00e9die",
+                "Fantasy",
+                "Magie"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                }
+            ],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "I'm The Max-Level Newbie",
+            "original_title": "I'm The Max-Level Newbie",
+            "description": "Le jeu de r\u00e9alit\u00e9 virtuelle 'La Tour de l'\u00c9preuve' est officiellement d\u00e9mod\u00e9 et le streamer Jin Hyuk est le seul \u00e0 \u00eatre rest\u00e9 jusqu'au bout pour terminer le jeu. Quand un jour 'La Tour de l'\u00c9preuve' devient r\u00e9alit\u00e9, Jin Hyuk qui conna\u00eet les \u00e9l\u00e9ments du jeu mieux que personne aura forc\u00e9ment un grand avantage sur les autres !",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/im-the-max-level-newbie.jpg",
+            "genres": [
+                "Action",
+                "Fantastique",
+                "Webcomic"
+            ],
+            "seasons": [],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Kotaro en solo",
+            "original_title": "Kotaro en solo",
+            "description": "Kotarou wa Hitorigurashi est une com\u00e9die qui se concentre sur un gar\u00e7on de 4 ans nomm\u00e9 Kotarou Sat?u. Contrairement aux enfants de son \u00e2ge, Kotarou n'a pas de parents et vit seul dans un appartement. Non seulement il semble gagner sa vie, mais il semble aussi plus organis\u00e9 que ses \u00e9tranges voisins.",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kotaro-en-solo.jpg",
+            "genres": [
+                "Slice of Life",
+                "Drame"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                }
+            ],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR",
+                "VF"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Solo Leveling",
+            "original_title": "Solo Leveling",
+            "description": "Genres",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-leveling0.jpg",
+            "genres": [
+                "Action",
+                "Fantasy"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                },
+                {
+                    "season_number": 2,
+                    "name": "Saison 2",
+                    "episodes": []
+                }
+            ],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR",
+                "VF",
+                "VASTFR"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Solo Login",
+            "original_title": "Solo Login",
+            "description": "Jung Si-woo, 26 ans, n'a jamais eu d'amis, parce qu'il n'y avait rien d'int\u00e9ressant chez lui. Il a v\u00e9cu une vie moyenne comme une personne moyenne dans un monde moyen. Mais soudainement, la terre a fait face \u00e0 un grand changement quand un myst\u00e9rieux 'Ch\u00e2teaux du ciel' flottant est apparu. Les 'Ch\u00e2teaux du Ciel' ont accord\u00e9 des ailes et des pouvoirs \u00e0 certaines personnes, mais malheureusement, Si-woo n'\u00e9tait pas l'un d'eux.",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-login.jpg",
+            "genres": [
+                "Sh\u00f4nen",
+                "Action",
+                "Aventure",
+                "Com\u00e9die",
+                "Fantaisie",
+                "Romance",
+                "Surnaturel",
+                "Webcomic"
+            ],
+            "seasons": [],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Solo Necromancy",
+            "original_title": "Solo Necromancy",
+            "description": "C'est la fin du monde. Les monstres des l\u00e9gendes apparaissent partout. Ils mangent les gens, conqui\u00e8rent les rues, et commencent \u00e0 cr\u00e9er des donjons dans les immeubles et les m\u00e9tros. Si vous pouviez choisir un m\u00e9tier dans ce monde d\u00e9cr\u00e9pit, lequel choisiriez-vous ? Pour un \u00ab n\u00e9cromancien \u00bb, l'extinction est mon terrain de jeu et la mort ma richesse.",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-necromancy.jpg",
+            "genres": [
+                "Sh\u00f4nen",
+                "Action",
+                "Aventure",
+                "Fantasy",
+                "Surnature",
+                "Webcomic"
+            ],
+            "seasons": [],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Solo Spell Caster",
+            "original_title": "Solo Spell Caster",
+            "description": "Le salari\u00e9 ordinaire Park Do-Hyuk, a enfin obtenu l'\u00e9veil qu'il avait toujours souhait\u00e9 dans une situation de vie ou de mort ! Incroyablement, les souvenirs et les exp\u00e9riences du jeu qu'il a pass\u00e9 toute sa vie dans la vingtaine \u00e0 jouer sont devenus ces pouvoirs d'\u00e9veil ! , c'\u00e9tait un \"triple r\u00e9veil\" de 1 sur un milliard ! Le parcours du joueur extraordinaire Park Do-Hyuk commence maintenant, alors qu'il vise \u00e0 atteindre le sommet du monde.",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/solo-spell-caster.jpg",
+            "genres": [
+                "Action",
+                "RPG",
+                "Fantaisie",
+                "Webcomic"
+            ],
+            "seasons": [],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Worn and Torn Newbie",
+            "original_title": "Worn and Torn Newbie",
+            "description": "Il reste 15 ans avant la fermeture du jeu. La fin n'est connue que de moi. Je suis un ancien combattant.",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/worn-and-torn-newbie.jpg",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Com\u00e9die",
+                "Fantasy",
+                "Webcomic",
+                "Manhwa",
+                "Sh\u00f4nen"
+            ],
+            "seasons": [],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "languages": [
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "One Piece",
+            "original_title": "One Piece",
+            "description": "Il fut un temps o\u00f9 Gold Roger \u00e9tait le plus grand de tous les pirates, le \"Roi des Pirates\" \u00e9tait son surnom. A sa mort, son tr\u00e9sor d'une valeur inestimable connu sous le nom de \"One Piece\" fut cach\u00e9 quelque part sur \"Grand Line\". De nombreux pirates sont partis \u00e0 la recherche de ce tr\u00e9sor mais tous sont morts avant m\u00eame de l'atteindre. Monkey D. Luffy r\u00eave de retrouver ce tr\u00e9sor l\u00e9gendaire et de devenir le nouveau \"Roi des Pirates\". Apr\u00e8s avoir mang\u00e9 un fruit du d\u00e9mon, il poss\u00e8de un pouvoir lui permettant de r\u00e9aliser son r\u00eave. Il lui faut maintenant trouver un \u00e9quipage pour partir \u00e0 l'aventure !",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_LPTgXoPHx4UDt9SQsWDRJTldzcDUQ6LUw&s",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_LPTgXoPHx4UDt9SQsWDRJTldzcDUQ6LUw&s",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Com\u00e9die",
+                "Drame",
+                "Fantastique"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 2,
+                    "name": "Saison 2",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 3,
+                    "name": "Saison 3",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 4,
+                    "name": "Saison 4",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 5,
+                    "name": "Saison 5",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 6,
+                    "name": "Saison 6",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 7,
+                    "name": "Saison 7",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 8,
+                    "name": "Saison 8",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 9,
+                    "name": "Saison 9",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 10,
+                    "name": "Saison 10",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 11,
+                    "name": "Saison 11",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 12,
+                    "name": "Saison 12",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 13,
+                    "name": "Saison 13",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 14,
+                    "name": "Saison 14",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 15,
+                    "name": "Saison 15",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 16,
+                    "name": "Saison 16",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 17,
+                    "name": "Saison 17",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 18,
+                    "name": "Saison 18",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 19,
+                    "name": "Saison 19",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                },
+                {
+                    "season_number": 20,
+                    "name": "Saison 20",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "\u00c9pisode 1",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "\u00c9pisode 2",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 3,
+                            "name": "\u00c9pisode 3",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 4,
+                            "name": "\u00c9pisode 4",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 5,
+                            "name": "\u00c9pisode 5",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 6,
+                            "name": "\u00c9pisode 6",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 7,
+                            "name": "\u00c9pisode 7",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 8,
+                            "name": "\u00c9pisode 8",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 9,
+                            "name": "\u00c9pisode 9",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 10,
+                            "name": "\u00c9pisode 10",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 11,
+                            "name": "\u00c9pisode 11",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 12,
+                            "name": "\u00c9pisode 12",
+                            "sources": []
+                        }
+                    ]
+                }
+            ],
+            "featured": false,
+            "year": "",
+            "status": "",
+            "rating": 7.5,
+            "languages": [
+                "VOSTFR",
+                "VF"
+            ]
+        }
+    ]
+}

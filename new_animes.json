@@ -1,0 +1,320 @@
+{
+    "anime": [
+        {
+            "id": 1,
+            "title": "One Piece",
+            "original_title": "One Piece",
+            "description": "À la suite de son combat contre Barbe Noire, l'équipage de Chapeau de paille est séparé. Luffy se retrouve sur l'île des femmes Amazon Lily puis est emmené à Impel Down où Ace est retenu prisonnier. Aidé d'anciens ennemis devenus alliés, Luffy réussit à s'échapper de la prison et se retrouve au milieu de la guerre entre la Marine et l'équipage de Barbe Blanche. Finalement, il échoue dans sa tentative de sauver Ace, qui meurt à Marine Ford en protégeant son frère adoptif. Luffy, inconsolable, prend conscience qu'il n'est pas encore assez fort pour protéger ses amis.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_LPTgXoPHx4UDt9SQsWDRJTldzcDUQ6LUw&s",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_LPTgXoPHx4UDt9SQsWDRJTldzcDUQ6LUw&s",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Comédie",
+                "Drame",
+                "Fantasy",
+                "Shonen"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1 : East Blue",
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "name": "Je suis Luffy! Celui qui deviendra Roi des Pirates!",
+                            "sources": []
+                        },
+                        {
+                            "episode_number": 2,
+                            "name": "Le grand épéiste apparaît! Chasseur de pirates, Roronoa Zoro",
+                            "sources": []
+                        }
+                    ]
+                }
+            ],
+            "featured": true,
+            "year": "1999",
+            "status": "En cours",
+            "rating": 9.0,
+            "languages": [
+                "VF",
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Death Note",
+            "original_title": "Death Note",
+            "description": "Light Yagami est un lycéen surdoué qui juge le monde actuel criminel, pourri et corrompu. Sa vie change du tout au tout le jour où il ramasse par hasard un mystérieux cahier intitulé « Death Note ». Son mode d'emploi indique que « la personne dont le nom est écrit dans ce cahier meurt ». D'abord sceptique, Light décide toutefois de tester le cahier et découvre que son pouvoir est bien réel. Il rencontre l'ancien propriétaire du Death Note, un dieu de la mort nommé Ryuk. Celui-ci déclare avoir volontairement laissé tomber son carnet dans le but de se divertir. Light décide d'utiliser ce cahier pour exterminer tous les criminels de la planète et bâtir un monde parfait dont il sera le dieu.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/death-note.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/death-note.jpg",
+            "genres": [
+                "Drame",
+                "Fantastique",
+                "Mystère",
+                "Psychologique",
+                "Surnaturel"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "2006",
+            "status": "Terminé",
+            "rating": 8.5,
+            "languages": [
+                "VOSTFR",
+                "VF",
+                "VASTFR"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Demon Slayer",
+            "original_title": "Demon Slayer",
+            "description": "Le Japon, au début du XXe siècle. Tanjirô est le fils aîné d'une famille de marchands de charbon dont le père est décédé. Un jour, alors qu'il était parti vendre du charbon en ville, sa famille est massacrée par un démon. La seule survivante est sa sœur Nezuko qui est devenue elle-même un démon, mais qui parvient à résister à son envie de dévorer des humains. Afin de guérir sa sœur et de venger sa famille, Tanjirô décide de devenir un pourfendeur de démons.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/demon-slayer.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/demon-slayer.jpg",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Drame",
+                "Fantastique",
+                "Historique",
+                "Surnaturel"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "2019",
+            "status": "En cours",
+            "rating": 8.7,
+            "languages": [
+                "VOSTFR",
+                "VF"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "One Punch Man",
+            "original_title": "One Punch Man",
+            "description": "Saitama est un jeune homme sans emploi, déprimé et sans but profond dans sa vie. Un jour, il rencontre un homme-crabe qui recherche un jeune garçon au menton fendu. Saitama finit par trouver ce jeune garçon et décide de le sauver des griffes de l'homme-crabe. Afin de poursuivre son but de devenir un héros, Saitama s'entraîne tous les jours pendant trois ans. À la fin, il remarque qu'il est devenu chauve et qu'il est devenu tellement fort qu'il parvient désormais à battre tous ses adversaires en un seul coup de poing.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/one-punch-man.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/one-punch-man.jpg",
+            "genres": [
+                "Action",
+                "Comédie",
+                "Fantastique",
+                "Science-fiction",
+                "Surnaturel",
+                "Super-héros"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                },
+                {
+                    "season_number": 2,
+                    "name": "Saison 2",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "2015",
+            "status": "En cours",
+            "rating": 8.7,
+            "languages": [
+                "VF",
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Mashle",
+            "original_title": "Mashle",
+            "description": "Dans un monde où la magie fait loi, un jeune garçon nommé Mash Burnedead, dépourvu de toute aptitude pour la magie, vit paisiblement avec son grand-père adoptif dans une petite forêt. Pourtant, ce manque ne l'empêche pas de mener une vie heureuse et tranquille, d'autant plus qu'il est doté d'une force surhumaine, obtenue grâce à un entraînement quotidien intensif. Malheureusement, un jour, un agent de police découvre qu'il n'a pas de marque magique et menace de l'éliminer lui et son grand-père, car l'existence de personnes sans magie est interdite. Cependant, il offre un arrangement à Mash : s'il parvient à devenir l'élève Divin de l'école de magie prestigieuse d'Easton, alors il laissera couler. Mash n'a alors pas d'autre choix que d'intégrer cette académie et d'user de sa force pour compenser son manque de magie.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mashle.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mashle.jpg",
+            "genres": [
+                "Action",
+                "Comédie",
+                "Fantasy",
+                "Ecole",
+                "Shonen"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                },
+                {
+                    "season_number": 2,
+                    "name": "Saison 2",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "2023",
+            "status": "En cours",
+            "rating": 8.2,
+            "languages": [
+                "VF",
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "My Hero Academia",
+            "original_title": "Boku no Hero Academia",
+            "description": "Dans un monde où 80 % de la population mondiale possède des super-pouvoirs, nommés « Alters », on suit les aventures de Izuku Midoriya, l'un des rares humains ne possédant pas d'Alter. Malgré cela, Izuku rêve de rejoindre la filière super-héroïque de la grande académie Yuei et de devenir un jour un des plus grands héros, à l'image de son idole, All Might. Un jour, après avoir été attaqué par un super-vilain, il a la chance de rencontrer son idole. Après cette rencontre, All Might va révéler à Izuku qu'il possède un Alter, transmissible de génération en génération. All Might lui propose de devenir son successeur. Izuku intègre par la suite la filière héroïque de Yuei, où il fera la rencontre de Katsuki Bakugo, un ami d'enfance mais aussi de nouveaux camarades tels que Ochaco Uraraka ou Tenya Lida.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-hero-academia.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-hero-academia.jpg",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Comédie",
+                "Super-héros",
+                "Shonen"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Saison 1",
+                    "episodes": []
+                },
+                {
+                    "season_number": 2,
+                    "name": "Saison 2",
+                    "episodes": []
+                },
+                {
+                    "season_number": 3,
+                    "name": "Saison 3",
+                    "episodes": []
+                },
+                {
+                    "season_number": 4,
+                    "name": "Saison 4",
+                    "episodes": []
+                },
+                {
+                    "season_number": 5,
+                    "name": "Saison 5",
+                    "episodes": []
+                },
+                {
+                    "season_number": 6,
+                    "name": "Saison 6",
+                    "episodes": []
+                },
+                {
+                    "season_number": 7,
+                    "name": "Saison 7",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "2016",
+            "status": "En cours",
+            "rating": 8.5,
+            "languages": [
+                "VF",
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Hunter x Hunter",
+            "original_title": "Hunter x Hunter",
+            "description": "Gon Freecss, un jeune garçon de 12 ans, rêve de devenir Hunter, un chasseur d'élite, comme son père disparu depuis longtemps. Aspirant à retrouver ce dernier, Gon décide de passer l'examen de Hunter. En chemin, Gon rencontre d'autres aspirants, notamment Kurapika qui veut se venger de la Brigade Fantôme, Leorio qui veut devenir médecin et Kirua, l'héritier d'une célèbre famille d'assassins. Ensemble, ils seront confrontés à de nombreux dangers et menaces, comme les terribles Kimera Ants et le redoutable Hisoka.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hunter-x-hunter.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hunter-x-hunter.jpg",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Fantasy",
+                "Shonen",
+                "Surnaturel"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Série de 1999",
+                    "episodes": []
+                },
+                {
+                    "season_number": 2,
+                    "name": "Série de 2011",
+                    "episodes": []
+                },
+                {
+                    "season_number": 3,
+                    "name": "Films",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "1999",
+            "status": "En pause",
+            "rating": 9.1,
+            "languages": [
+                "VF",
+                "VOSTFR"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Naruto",
+            "original_title": "Naruto",
+            "description": "Dans le village caché de Konoha vit Naruto, un jeune garçon qui rêve de devenir Hokage, le chef du village. Orphelin, il a grandi dans la solitude, rejeté par tous les villageois. En effet, 12 ans plus tôt, un démon à neuf queues, Kyûbi, a attaqué le village. Le quatrième Hokage réussit à sceller ce démon dans le corps d'un bébé : Naruto. Depuis, les villageois le considèrent comme un monstre. Naruto fait alors tout pour attirer l'attention, de la plus mauvaise des façons : il est farceur, cancre et hyperactif. Néanmoins, Naruto est déterminé à devenir Hokage pour prouver sa valeur à tous les villageois.",
+            "image": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/naruto.jpg",
+            "image_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/naruto.jpg",
+            "genres": [
+                "Action",
+                "Aventure",
+                "Comédie",
+                "Fantasy",
+                "Shonen",
+                "Arts martiaux"
+            ],
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "name": "Naruto",
+                    "episodes": []
+                },
+                {
+                    "season_number": 2,
+                    "name": "Naruto Shippuden",
+                    "episodes": []
+                },
+                {
+                    "season_number": 3,
+                    "name": "Films",
+                    "episodes": []
+                }
+            ],
+            "featured": true,
+            "year": "2002",
+            "status": "Terminé",
+            "rating": 8.3,
+            "languages": [
+                "VF",
+                "VOSTFR"
+            ]
+        }
+    ]
+}
